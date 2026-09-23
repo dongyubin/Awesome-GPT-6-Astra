@@ -1,5 +1,9 @@
 # Awesome-GPT-6-Astra
 
+> **非官方声明：** 本项目为独立的第三方教程整理项目，与 OpenAI、Anthropic、GitHub 等公司不存在官方合作、授权或隶属关系。ChatGPT、OpenAI、Claude、Anthropic 等商标归各自权利人所有。
+
+> **安全提示：** 第三方充值服务可能需要额外的账号授权信息，请充分了解其安全风险，不要向任何不可信第三方提供密码、验证码、Cookie、Session Token 或 API Key。
+
 ## GPT-6 Astra是什么？
 
 GPT-6 Astra 是 OpenAI 面向复杂工作和 AI Agent 场景推出的新一代模型。
