@@ -60,6 +60,11 @@ Astra 则进一步强调：
 - [ChatGPT 被降智怎么办？功能与回答质量的三步检测](<ChatGPT 被降智怎么办？功能与回答质量的三步检测方法（2026）.md>)
 - [如何检测 IP 质量？Ping0 与 ipdata 查询及网络排查](<如何检测 IP 质量？Ping0 与 ipdata 查询及 ChatGPT 网络排查教程.md>)
 
+**GPT-6 系列：**
+
+- [GPT-6 Astra 怎么用？Plus/Pro 开放范围与接入指南](<GPT-6 Astra 怎么用？Plus-Pro 开放范围与接入指南（2026 最新）.md>)——Astra/Sol/Luna 关系、各档开放范围、客户端五步核查、API 定价
+- [GPT-6 Astra 怎么充值？额度、重置卡与生效排查](<GPT-6 Astra 怎么充值？Plus-Pro 额度重置卡与生效排查指南（2026 最新）.md>)——周额度细节、重置卡机制、支付宝/微信开通路径、看不到入口的七步排查
+
 ## GPT-6 Astra、GPT-6 Sol、GPT-6 Luna
 
 | 模型        | 定位   | 核心特点                                         |
