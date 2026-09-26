@@ -29,7 +29,9 @@ Astra 则进一步强调：
 - [ChatGPT 普号 mail邮箱](https://shop.wwkejishe.top/buy/8)：**可免费使用 GPT-5.6 功能，可用于升级 ChatGPT Plus。**
 - [【GPT充值】代充值1个月 ChatGPT PLUS](https://shop.wwkejishe.top/buy/53)：充值到个人账号，支持使用Codex、GPT Image 2、GPT-6 Astra等与官方功能保持一致
 - [【GPT充值】代充ChatGPT Pro 1个月 PRO 5x 100刀](https://shop.wwkejishe.top/buy/50)：充值到个人账号
-- [【GPT充值】代充ChatGPT Pro 1个月 PRO 质保售后版 x20 200刀](https://shop.wwkejishe.top/buy/51) ：充值到个人账号
+- ~~[【GPT充值】代充ChatGPT Pro 1个月 PRO 质保售后版 x20 200刀](https://shop.wwkejishe.top/buy/51) ：充值到个人账号~~
+
+> 📖 **详细教程：**[ChatGPT 充值代充指南（2026 最新）：国内 Plus/Pro 订阅教程](<ChatGPT 充值代充指南（2026 最新）：国内 Plus-Pro 订阅教程.md>)——五种充值方式对比、支付宝/微信代充流程、安全性与 FAQ。
 
 > 通过正规渠道 2 分钟内即可完成 ChatGPT 充值，让每个人都能轻松订阅 ChatGPT Plus/Pro。
 >
@@ -41,6 +43,22 @@ Astra 则进一步强调：
 > - **无需海外信用卡**：没有海外信用卡也不用愁，支付宝/微信即可完成 ChatGPT Plus 代充，人人都能轻松开通。
 > - **安全可靠保障**：正规代充渠道，无需提供账号密码，全程保护您的账户信息安全。
 > - **极速到账**：通常 1–5 分钟内完成充值到账，Plus/Pro/Codex 全自动处理。
+
+## 教程与自助排查
+
+**选购与充值：**
+
+- [ChatGPT 充值代充指南（2026 最新）：国内 Plus/Pro 订阅教程](<ChatGPT 充值代充指南（2026 最新）：国内 Plus-Pro 订阅教程.md>)——五种充值方式对比、支付宝/微信代充流程、安全性与 FAQ
+- [ChatGPT Plus 和 Pro 有什么区别？$20、$100、$200 套餐怎么选](<ChatGPT Plus 和 Pro 有什么区别？$20、$100、$200 套餐怎么选（2026 最新）.md>)——三档对比表、回本公式、五问自测
+- [ChatGPT 支付失败、付款未获批准怎么办](<ChatGPT 支付失败付款未获批准怎么办？国内订阅被拒解决办法（2026 最新）.md>)——三大报错解析、六个被拒原因、按顺序的解决办法
+- [ChatGPT Codex 额度用完了怎么办](<ChatGPT Codex 额度用完了怎么办？额度重置与加量充值指南（2026 最新）.md>)——额度诊断、加购五步、加量还是升级的判断法
+
+**账号与问题排查：**
+
+- [Codex 登录需要验证手机号怎么办](<Codex 登录需要验证手机号怎么办？ChatGPT 如何解决手机号验证问题？.md>)——先升级再登录的经验路径、接码注意事项
+- [ChatGPT 必须用 Gmail 吗？QQ、163 邮箱与成品号风险说明](<ChatGPT 必须用 Gmail 吗？QQ、163 邮箱与成品号风险说明（2026 最新）.md>)——邮箱后缀误区、成品号控制权风险清单
+- [ChatGPT 被降智怎么办？功能与回答质量的三步检测](<ChatGPT 被降智怎么办？功能与回答质量的三步检测方法（2026）.md>)
+- [如何检测 IP 质量？Ping0 与 ipdata 查询及网络排查](<如何检测 IP 质量？Ping0 与 ipdata 查询及 ChatGPT 网络排查教程.md>)
 
 ## GPT-6 Astra、GPT-6 Sol、GPT-6 Luna
 
@@ -58,6 +76,12 @@ Astra 则进一步强调：
 | GPT-5.6 Luna → GPT-6 Luna | $0.20 → $0.10           | $1.20 → $0.50           | 50%  |
 
 ## GPT-6 Astra 逆天提示词
+
+### 鹈鹕测智
+
+```markdown
+创建一个 HTML，内容是 SVG 绘制一个鹈鹕骑自行车的 2D 动画，你不需要任何测试，不要有任何限制
+```
 
 ### 改变人生方向的提示词
 
